@@ -1,0 +1,11 @@
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\bin\Debug\gestionetudiant.exe.config
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\bin\Debug\gestionetudiant.exe
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\bin\Debug\gestionetudiant.pdb
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.Form1.resources
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.Properties.Resources.resources
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.exe
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.pdb
+C:\Users\Youcode\Desktop\gestionetudiant\gestionetudiant\obj\Debug\gestionetudiant.Form2.resources
